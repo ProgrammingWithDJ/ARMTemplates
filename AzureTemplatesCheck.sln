@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTemplatesCheck", "AzureTemplatesCheck\AzureTemplatesCheck.csproj", "{F5255D85-78D3-47EE-B172-6851685666D2}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureTemplatefiles", "AzureTemplatefiles\AzureTemplatefiles.deployproj", "{FBCC985E-A8C8-418F-B4C3-1B34250C9CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5255D85-78D3-47EE-B172-6851685666D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5255D85-78D3-47EE-B172-6851685666D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5255D85-78D3-47EE-B172-6851685666D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5255D85-78D3-47EE-B172-6851685666D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCC985E-A8C8-418F-B4C3-1B34250C9CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCC985E-A8C8-418F-B4C3-1B34250C9CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCC985E-A8C8-418F-B4C3-1B34250C9CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCC985E-A8C8-418F-B4C3-1B34250C9CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21266873-6B41-4C82-B128-885B070AE2E4}
+	EndGlobalSection
+EndGlobal
